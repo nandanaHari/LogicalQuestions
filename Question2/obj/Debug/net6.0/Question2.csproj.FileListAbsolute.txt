@@ -1,0 +1,15 @@
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\bin\Debug\net6.0\Question2.exe
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\bin\Debug\net6.0\Question2.deps.json
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\bin\Debug\net6.0\Question2.runtimeconfig.json
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\bin\Debug\net6.0\Question2.dll
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\bin\Debug\net6.0\Question2.pdb
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.csproj.AssemblyReference.cache
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.AssemblyInfoInputs.cache
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.AssemblyInfo.cs
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.csproj.CoreCompileInputs.cache
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.dll
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\refint\Question2.dll
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.pdb
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\Question2.genruntimeconfig.cache
+C:\Users\nandana.haridas\source\repos\Logical Questions\Question2\obj\Debug\net6.0\ref\Question2.dll
